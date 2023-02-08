@@ -65,6 +65,8 @@
             </div>
         </div>
     </nav>
+    <section class="sfondoHeader">
 
+    </section>
 
 </header>

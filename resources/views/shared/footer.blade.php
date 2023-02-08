@@ -39,7 +39,7 @@
                         <li>DC Power Visa</li>
                     </ul>
                 </div>
-                <p class="text-secondary m-0">All site content Tm and 2020 DC entertainment, unless otherwise <a class="text-decoration-none" href="@">noted here</a> . all rights reserved.</p>
+                <p class="text-secondary m-0">All site content Tm and <i class="fa-regular fa-copyright"></i> 2020 DC entertainment, unless otherwise <a class="text-decoration-none" href="@">noted here</a> . all rights reserved.</p>
                 <a class="text-decoration-none" href="@">Cookies Settings</a>
                 <div class="col-6 position-absolute">
                     <img class="position-absolute" src="{{Vite::asset('resources/assets/images/dc-logo-bg.png')}}" alt="">

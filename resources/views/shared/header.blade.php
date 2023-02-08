@@ -12,56 +12,52 @@
         </div>
     </section>
     <nav class="navbar navbar-expand-lg">
-        <div class="container-fluid">
+        <div class="container-lg">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <img src="{{Vite::asset('resources/assets/images/dc-logo.png')}}" alt="">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">CHARACTERS</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">COMICS</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">MOVIES</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">TV</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">GAMES</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">COLLECTIBLES</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">VIDEO</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">FANS</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                    <li class="nav-item me-4">
+                        <a class="nav-link text-dark" href="#">NEWS</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Dropdown
+                    <li class="nav-item dropdown me-4">
+                        <a class="nav-link text-dark dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            SHOP
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
-                            <li>
-                                <hr class="dropdown-divider">
-                            </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="#">SHOP 1</a></li>
+                            <li><a class="dropdown-item" href="#">SHOP 2</a></li>
                         </ul>
                     </li>
 
                 </ul>
-                <input class="form-control me-2 w-25" type="search" placeholder="Search" aria-label="Search">
+                <input class="w-25 text-end inpuSerch" placeholder="Search">
             </div>
         </div>
     </nav>

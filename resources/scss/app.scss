@@ -18,3 +18,15 @@
     background-image: url(../assets/images/jumbotron.jpg);
     height: 400px;
 }
+
+.series{
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    top: -25px;
+}
+
+li.me-3{
+    width: calc(100% / 5);
+}
+
